@@ -1,6 +1,6 @@
 package day01;
 
-public class Variables_02 {
+public class C02_Variables {
     public static void main(String[] args) {
         // 1- Farkli 3 data turunde variable olusturun ve bunlari yazdirin
         String okulIsmi="Techpro";

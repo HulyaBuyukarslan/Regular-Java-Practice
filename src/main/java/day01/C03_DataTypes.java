@@ -1,6 +1,6 @@
 package day01;
 
-public class DataTypes {
+public class C03_DataTypes {
 
     /*
      Javada temelde 2 farkli data type vardir
